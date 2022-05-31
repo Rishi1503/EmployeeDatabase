@@ -1,7 +1,3 @@
-//start with
-// $ cd vue-3-crud
-//  $ npm run serve
-
 const fastify = require('fastify')({
     logger: true,
     ignoreTrailingSlash: true
